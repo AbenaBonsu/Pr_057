@@ -1,0 +1,843 @@
+State,Agency,Category,Offense,Crimes
+California,Adelanto,Total,"Total, all crimes","1,535"
+California,Agnews Developmental Ctr,Total,"Total, all crimes",NA
+California,Agoura Hills,Total,"Total, all crimes",381
+California,Alameda,Total,"Total, all crimes","1,725"
+California,Alameda Atsf Railway,Total,"Total, all crimes",NA
+California,Alameda County,Total,"Total, all crimes","8,564"
+California,Alameda Highway Patrol,Total,"Total, all crimes","5,814"
+California,Alameda State Police,Total,"Total, all crimes",NA
+California,Albany,Total,"Total, all crimes",492
+California,Alhambra,Total,"Total, all crimes","2,036"
+California,Aliso Viejo,Total,"Total, all crimes",613
+California,Allan Hancock College,Total,"Total, all crimes",18
+California,Alpine County,Total,"Total, all crimes",54
+California,Alpine Highway Patrol,Total,"Total, all crimes",42
+California,Alturas,Total,"Total, all crimes",330
+California,Amador County,Total,"Total, all crimes",790
+California,Amador Highway Patrol,Total,"Total, all crimes",179
+California,American Canyon,Total,"Total, all crimes","1,374"
+California,Anaheim,Total,"Total, all crimes","10,268"
+California,Anderson,Total,"Total, all crimes","1,148"
+California,Antioch,Total,"Total, all crimes","4,300"
+California,Apple Valley,Total,"Total, all crimes","2,666"
+California,Arcadia,Total,"Total, all crimes","1,367"
+California,Arcata,Total,"Total, all crimes","1,547"
+California,Arroyo Grande,Total,"Total, all crimes",587
+California,Artesia,Total,"Total, all crimes",719
+California,Arvin,Total,"Total, all crimes",621
+California,Atascadero,Total,"Total, all crimes","1,136"
+California,Atascadero State Hospital,Total,"Total, all crimes","1,005"
+California,Atherton,Total,"Total, all crimes",87
+California,Atwater,Total,"Total, all crimes","1,844"
+California,Auburn,Total,"Total, all crimes",590
+California,Avalon,Total,"Total, all crimes",161
+California,Avenal,Total,"Total, all crimes",893
+California,Azusa,Total,"Total, all crimes","1,818"
+California,Bakersfield,Total,"Total, all crimes","22,436"
+California,Baldwin Park,Total,"Total, all crimes","2,066"
+California,Banning,Total,"Total, all crimes","2,164"
+California,Barstow,Total,"Total, all crimes","3,101"
+California,Bear Valley,Total,"Total, all crimes",47
+California,Beaumont,Total,"Total, all crimes","1,887"
+California,Bell,Total,"Total, all crimes","1,356"
+California,Bell Gardens,Total,"Total, all crimes","2,022"
+California,Bellflower,Total,"Total, all crimes","3,127"
+California,Belmont,Total,"Total, all crimes",375
+California,Belvedere,Total,"Total, all crimes",15
+California,Benicia,Total,"Total, all crimes",562
+California,Berkeley,Total,"Total, all crimes","2,934"
+California,Beverly Hills,Total,"Total, all crimes",839
+California,Big Bear Lake,Total,"Total, all crimes",637
+California,Biggs,Total,"Total, all crimes",43
+California,Bishop,Total,"Total, all crimes",284
+California,Blue Lake,Total,"Total, all crimes",NA
+California,Blythe,Total,"Total, all crimes",841
+California,Bradbury,Total,"Total, all crimes",17
+California,Brawley,Total,"Total, all crimes","1,607"
+California,Brea,Total,"Total, all crimes","1,494"
+California,Brentwood,Total,"Total, all crimes","1,913"
+California,Brisbane,Total,"Total, all crimes",58
+California,Broadmoor,Total,"Total, all crimes",99
+California,Buellton,Total,"Total, all crimes",211
+California,Buena Park,Total,"Total, all crimes","3,655"
+California,Burbank,Total,"Total, all crimes","5,216"
+California,Burlingame,Total,"Total, all crimes",648
+California,Butte County,Total,"Total, all crimes","3,575"
+California,Butte Highway Patrol,Total,"Total, all crimes",882
+California,Butte State Police,Total,"Total, all crimes",NA
+California,CA St Polytec Univ: Pomona,Total,"Total, all crimes",33
+California,Cabrillo College,Total,"Total, all crimes",NA
+California,Cal Poly San Luis Obispo,Total,"Total, all crimes",197
+California,Calabasas,Total,"Total, all crimes",425
+California,Calaveras County,Total,"Total, all crimes","1,755"
+California,Calaveras Highway Patrol,Total,"Total, all crimes",252
+California,Calexico,Total,"Total, all crimes","1,567"
+California,California City,Total,"Total, all crimes",776
+California,California State Fair,Total,"Total, all crimes",116
+California,California State Police Sacramento,Total,"Total, all crimes",NA
+California,Calimesa,Total,"Total, all crimes",271
+California,Calipatria,Total,"Total, all crimes",NA
+California,Calistoga,Total,"Total, all crimes",197
+California,Camarillo,Total,"Total, all crimes","2,675"
+California,Camarillo State Hospital,Total,"Total, all crimes",NA
+California,Campbell,Total,"Total, all crimes","1,649"
+California,Canyon Lake,Total,"Total, all crimes",258
+California,Capitola,Total,"Total, all crimes",859
+California,Carlsbad,Total,"Total, all crimes","2,930"
+California,Carmel,Total,"Total, all crimes",216
+California,Carpinteria,Total,"Total, all crimes",715
+California,Carson,Total,"Total, all crimes","4,533"
+California,Cathedral City,Total,"Total, all crimes","1,125"
+California,Central Marin,Total,"Total, all crimes",NA
+California,Ceres,Total,"Total, all crimes","3,024"
+California,Cerritos,Total,"Total, all crimes","1,324"
+California,Chico,Total,"Total, all crimes","4,992"
+California,China Lake,Total,"Total, all crimes",NA
+California,Chino,Total,"Total, all crimes","4,200"
+California,Chino Hills,Total,"Total, all crimes","1,713"
+California,Chowchilla,Total,"Total, all crimes",475
+California,Chula Vista,Total,"Total, all crimes","5,041"
+California,Citrus Heights,Total,"Total, all crimes","3,327"
+California,City of Angels,Total,"Total, all crimes",259
+California,Claremont,Total,"Total, all crimes","1,212"
+California,Clayton,Total,"Total, all crimes",146
+California,Clearlake,Total,"Total, all crimes","2,296"
+California,Cloverdale,Total,"Total, all crimes",308
+California,Clovis,Total,"Total, all crimes","5,080"
+California,Coachella,Total,"Total, all crimes","1,455"
+California,Coalinga,Total,"Total, all crimes","1,326"
+California,Coalinga State Hospital,Total,"Total, all crimes",11
+California,Colfax,Total,"Total, all crimes",NA
+California,College of The Sequoias,Total,"Total, all crimes",19
+California,Colma,Total,"Total, all crimes",311
+California,Colton,Total,"Total, all crimes","1,818"
+California,Columbia St Historic Pk,Total,"Total, all crimes",NA
+California,Colusa,Total,"Total, all crimes",325
+California,Colusa County,Total,"Total, all crimes",682
+California,Colusa Highway Patrol,Total,"Total, all crimes",327
+California,Commerce,Total,"Total, all crimes",948
+California,Compton,Total,"Total, all crimes","6,241"
+California,Concord,Total,"Total, all crimes","4,520"
+California,Contra Costa Community College,Total,"Total, all crimes",58
+California,Contra Costa County,Total,"Total, all crimes","7,200"
+California,Contra Costa Highway Patrol,Total,"Total, all crimes","1,597"
+California,Contra Costa Santa Fe Railway,Total,"Total, all crimes",NA
+California,Contra Costa State Police,Total,"Total, all crimes",NA
+California,Corcoran,Total,"Total, all crimes","1,217"
+California,Corning,Total,"Total, all crimes",572
+California,Corona,Total,"Total, all crimes","5,804"
+California,Coronado,Total,"Total, all crimes",431
+California,Costa Mesa,Total,"Total, all crimes","4,410"
+California,Cotati,Total,"Total, all crimes",592
+California,Covina,Total,"Total, all crimes","3,097"
+California,Crescent City,Total,"Total, all crimes","1,079"
+California,CSU: Bakersfield,Total,"Total, all crimes",17
+California,CSU: Channel Islands,Total,"Total, all crimes",131
+California,CSU: Chico,Total,"Total, all crimes",285
+California,CSU: Dominguez Hills,Total,"Total, all crimes",34
+California,CSU: Fresno,Total,"Total, all crimes",298
+California,CSU: Fullerton,Total,"Total, all crimes",595
+California,CSU: Hayward,Total,"Total, all crimes",45
+California,CSU: Long Beach,Total,"Total, all crimes",164
+California,CSU: Los Angeles,Total,"Total, all crimes",22
+California,CSU: Monterey Bay,Total,"Total, all crimes",118
+California,CSU: Northridge,Total,"Total, all crimes",189
+California,CSU: Sacramento,Total,"Total, all crimes",136
+California,CSU: San Bernardino,Total,"Total, all crimes",60
+California,CSU: San Jose,Total,"Total, all crimes",691
+California,CSU: San Marcos,Total,"Total, all crimes",196
+California,CSU: Stanislaus,Total,"Total, all crimes",63
+California,CSU: Stockton,Total,"Total, all crimes",NA
+California,Cudahy,Total,"Total, all crimes",908
+California,Cuesta College,Total,"Total, all crimes",11
+California,Culver City,Total,"Total, all crimes","2,388"
+California,Cupertino,Total,"Total, all crimes",333
+California,Cypress,Total,"Total, all crimes","1,516"
+California,Daly City,Total,"Total, all crimes","2,868"
+California,Dana Point,Total,"Total, all crimes","1,073"
+California,Danville,Total,"Total, all crimes",688
+California,Davis,Total,"Total, all crimes","1,291"
+California,Del Mar,Total,"Total, all crimes",183
+California,Del Norte County,Total,"Total, all crimes",664
+California,Del Norte Highway Patrol,Total,"Total, all crimes",291
+California,Del Rey Oaks,Total,"Total, all crimes",38
+California,Delano,Total,"Total, all crimes","2,550"
+California,Desert Hot Springs,Total,"Total, all crimes","1,943"
+California,Diamond Bar,Total,"Total, all crimes",760
+California,Dinuba,Total,"Total, all crimes","1,722"
+California,Dixon,Total,"Total, all crimes",366
+California,Dorris,Total,"Total, all crimes",50
+California,Dos Palos,Total,"Total, all crimes",396
+California,Downey,Total,"Total, all crimes","3,115"
+California,DPR: Angeles,Total,"Total, all crimes",165
+California,DPR: Bay Area,Total,"Total, all crimes",31
+California,DPR: Big Sur,Total,"Total, all crimes",NA
+California,DPR: Calaveras County,Total,"Total, all crimes",1
+California,DPR: Capital,Total,"Total, all crimes",202
+California,DPR: Channel Coast,Total,"Total, all crimes",154
+California,DPR: Chino Hills,Total,"Total, all crimes",NA
+California,DPR: Colorado,Total,"Total, all crimes",NA
+California,DPR: Contra Costa County,Total,"Total, all crimes",NA
+California,DPR: Eel River,Total,"Total, all crimes",NA
+California,DPR: El Dorado County,Total,"Total, all crimes",NA
+California,DPR: Four Rivers District,Total,"Total, all crimes",56
+California,DPR: Gabilan,Total,"Total, all crimes",NA
+California,DPR: Gaviota,Total,"Total, all crimes",NA
+California,DPR: Gold Fields District,Total,"Total, all crimes",426
+California,DPR: Gold Mines,Total,"Total, all crimes",NA
+California,DPR: Hollister Hills,Total,"Total, all crimes",9
+California,DPR: Hungry Valley,Total,"Total, all crimes",19
+California,DPR: Hungry Valley,Total,"Total, all crimes",NA
+California,DPR: Inland Empire,Total,"Total, all crimes",184
+California,DPR: Lake County,Total,"Total, all crimes",NA
+California,DPR: Los Angeles County,Total,"Total, all crimes",NA
+California,DPR: Marin County,Total,"Total, all crimes",54
+California,DPR: Mendocino Headqtrs,Total,"Total, all crimes",61
+California,DPR: Montane District,Total,"Total, all crimes",NA
+California,DPR: Monterey County,Total,"Total, all crimes",52
+California,DPR: Mt San Jacinto,Total,"Total, all crimes",NA
+California,DPR: Napa County,Total,"Total, all crimes",NA
+California,DPR: North Coast Redwoods,Total,"Total, all crimes",132
+California,DPR: Northern Buttes,Total,"Total, all crimes",142
+California,DPR: Oceano Dunes,Total,"Total, all crimes",234
+California,DPR: Ocotillo Wells,Total,"Total, all crimes",117
+California,DPR: Orange Coast,Total,"Total, all crimes",530
+California,DPR: Orange County,Total,"Total, all crimes",NA
+California,DPR: Riverside County,Total,"Total, all crimes",NA
+California,DPR: Russian River,Total,"Total, all crimes",162
+California,DPR: Salton Sea,Total,"Total, all crimes",NA
+California,DPR: San Bernardino Cnty,Total,"Total, all crimes",NA
+California,DPR: San Diego Coast,Total,"Total, all crimes",145
+California,DPR: San Diego County,Total,"Total, all crimes",NA
+California,DPR: San Francisco Count,Total,"Total, all crimes",NA
+California,DPR: San Joaquin,Total,"Total, all crimes",44
+California,DPR: San Luis Obispo Coast,Total,"Total, all crimes",21
+California,DPR: San Simeon,Total,"Total, all crimes",NA
+California,DPR: Santa Barbara Cnty,Total,"Total, all crimes",NA
+California,DPR: Santa Cruz County,Total,"Total, all crimes",NA
+California,DPR: Santa Cruz Mountains,Total,"Total, all crimes",195
+California,DPR: Shasta County,Total,"Total, all crimes",NA
+California,DPR: Sierra,Total,"Total, all crimes",81
+California,DPR: Silverado,Total,"Total, all crimes",5
+California,DPR: Solano County,Total,"Total, all crimes",NA
+California,Dpr: Tehachapi District,Total,"Total, all crimes",53
+California,DPR: Twin Cities,Total,"Total, all crimes",25
+California,DPR: Upper Valley,Total,"Total, all crimes",NA
+California,Duarte,Total,"Total, all crimes",859
+California,Dublin,Total,"Total, all crimes","2,067"
+California,Dunsmuir,Total,"Total, all crimes",23
+California,E Bay Municipal Utility,Total,"Total, all crimes",9
+California,E Bay Reg Pk: Contra Costa,Total,"Total, all crimes",93
+California,E Bay Reg Pks: Alameda Co,Total,"Total, all crimes",156
+California,East Palo Alto,Total,"Total, all crimes","1,102"
+California,Eastvale,Total,"Total, all crimes",508
+California,El Cajon,Total,"Total, all crimes","5,806"
+California,El Camino College,Total,"Total, all crimes",31
+California,El Centro,Total,"Total, all crimes","2,582"
+California,El Cerrito,Total,"Total, all crimes","1,170"
+California,El Dorado County,Total,"Total, all crimes","5,210"
+California,El Dorado Highway Patrol,Total,"Total, all crimes",861
+California,El Monte,Total,"Total, all crimes","3,178"
+California,El Segundo,Total,"Total, all crimes",918
+California,Elk Grove,Total,"Total, all crimes","1,886"
+California,Emeryville,Total,"Total, all crimes","1,013"
+California,Encinitas,Total,"Total, all crimes","1,654"
+California,Escalon,Total,"Total, all crimes",298
+California,Escondido,Total,"Total, all crimes","6,921"
+California,Etna,Total,"Total, all crimes",6
+California,Eureka,Total,"Total, all crimes","5,276"
+California,Exeter,Total,"Total, all crimes",528
+California,Fairfax,Total,"Total, all crimes",324
+California,Fairfield,Total,"Total, all crimes","5,412"
+California,Fairview Developmtl Ctr,Total,"Total, all crimes",2
+California,Farmersville,Total,"Total, all crimes",499
+California,Ferndale,Total,"Total, all crimes",56
+California,Fillmore,Total,"Total, all crimes","1,585"
+California,Firebaugh,Total,"Total, all crimes",509
+California,Folsom,Total,"Total, all crimes","1,460"
+California,Fontana,Total,"Total, all crimes","6,818"
+California,Fontana Unified Sch Dist,Total,"Total, all crimes","1,145"
+California,Foothill-De Anza College,Total,"Total, all crimes",23
+California,Fort Bragg,Total,"Total, all crimes",953
+California,Fort Jones,Total,"Total, all crimes",11
+California,Fortuna,Total,"Total, all crimes",987
+California,Foster City,Total,"Total, all crimes",262
+California,Fountain Valley,Total,"Total, all crimes","2,154"
+California,Fowler,Total,"Total, all crimes",147
+California,Fremont,Total,"Total, all crimes","5,082"
+California,Fresno,Total,"Total, all crimes","36,711"
+California,Fresno Atsf Railway,Total,"Total, all crimes",NA
+California,Fresno Community College,Total,"Total, all crimes",117
+California,Fresno County,Total,"Total, all crimes","6,061"
+California,Fresno Highway Patrol,Total,"Total, all crimes","2,912"
+California,Fresno State Police,Total,"Total, all crimes",NA
+California,Fullerton,Total,"Total, all crimes","6,981"
+California,Galt,Total,"Total, all crimes",637
+California,Garden Grove,Total,"Total, all crimes","8,645"
+California,Gardena,Total,"Total, all crimes","2,996"
+California,Gilroy,Total,"Total, all crimes","2,343"
+California,Glendale,Total,"Total, all crimes","8,231"
+California,Glendora,Total,"Total, all crimes","2,790"
+California,Glenn County,Total,"Total, all crimes",486
+California,Glenn Highway Patrol,Total,"Total, all crimes",229
+California,Goleta,Total,"Total, all crimes","1,248"
+California,Gonzales,Total,"Total, all crimes",379
+California,Grand Terrace,Total,"Total, all crimes",816
+California,Grant Joint Union H.S.,Total,"Total, all crimes",476
+California,Grass Valley,Total,"Total, all crimes","1,558"
+California,Greenfield,Total,"Total, all crimes",590
+California,Gridley,Total,"Total, all crimes",589
+California,Grover Beach,Total,"Total, all crimes",934
+California,Guadalupe,Total,"Total, all crimes",222
+California,Gustine,Total,"Total, all crimes",356
+California,Half Moon Bay,Total,"Total, all crimes",NA
+California,Hanford,Total,"Total, all crimes","4,630"
+California,Hawaiian Gardens,Total,"Total, all crimes",808
+California,Hawthorne,Total,"Total, all crimes","3,078"
+California,Hayward,Total,"Total, all crimes","4,782"
+California,Healdsburg,Total,"Total, all crimes",352
+California,Hemet,Total,"Total, all crimes","3,498"
+California,Hercules,Total,"Total, all crimes",376
+California,Hermosa Beach,Total,"Total, all crimes","1,166"
+California,Hesperia,Total,"Total, all crimes","2,975"
+California,Hidden Hills,Total,"Total, all crimes",13
+California,Highland,Total,"Total, all crimes","2,152"
+California,Hillsborough,Total,"Total, all crimes",43
+California,Hollister,Total,"Total, all crimes","1,096"
+California,Holtville,Total,"Total, all crimes",NA
+California,Hughson,Total,"Total, all crimes",152
+California,Humboldt County,Total,"Total, all crimes","2,287"
+California,Humboldt Highway Patrol,Total,"Total, all crimes",880
+California,Humboldt State University,Total,"Total, all crimes",116
+California,Huntington Beach,Total,"Total, all crimes","7,600"
+California,Huntington Park,Total,"Total, all crimes","2,169"
+California,Huron,Total,"Total, all crimes",471
+California,Imperial,Total,"Total, all crimes",529
+California,Imperial Beach,Total,"Total, all crimes","1,561"
+California,Imperial County,Total,"Total, all crimes","4,523"
+California,Imperial Highway Patrol,Total,"Total, all crimes",759
+California,Indian Wells,Total,"Total, all crimes",121
+California,Indio,Total,"Total, all crimes","2,793"
+California,Industry,Total,"Total, all crimes","1,437"
+California,Inglewood,Total,"Total, all crimes","2,520"
+California,Inyo County,Total,"Total, all crimes",480
+California,Inyo Highway Patrol,Total,"Total, all crimes",198
+California,Ione,Total,"Total, all crimes",180
+California,Irvine,Total,"Total, all crimes","4,312"
+California,Irwindale,Total,"Total, all crimes",576
+California,Isleton,Total,"Total, all crimes",NA
+California,Jackson,Total,"Total, all crimes",207
+California,Jurupa Valley,Total,"Total, all crimes","2,966"
+California,Kensington,Total,"Total, all crimes",39
+California,Kerman,Total,"Total, all crimes",894
+California,Kern County,Total,"Total, all crimes","19,372"
+California,Kern Highway Patrol,Total,"Total, all crimes","3,927"
+California,Kern Santa Fe Railway,Total,"Total, all crimes",NA
+California,Kern State Police,Total,"Total, all crimes",NA
+California,King City,Total,"Total, all crimes",647
+California,Kings,Total,"Total, all crimes","4,115"
+California,Kings Highway Patrol,Total,"Total, all crimes",613
+California,Kings Santa Fe Railway,Total,"Total, all crimes",NA
+California,Kings State Police,Total,"Total, all crimes",NA
+California,Kingsburg,Total,"Total, all crimes",448
+California,L.A. Co Mtr Trns Authority,Total,"Total, all crimes","11,552"
+California,L.A. Trans Services Bureau,Total,"Total, all crimes",360
+California,La Canada Flintridge,Total,"Total, all crimes",186
+California,La Habra,Total,"Total, all crimes","2,755"
+California,La Habra Heights,Total,"Total, all crimes",64
+California,La Mesa,Total,"Total, all crimes","2,568"
+California,La Mirada,Total,"Total, all crimes","1,092"
+California,La Palma,Total,"Total, all crimes",497
+California,La Puente,Total,"Total, all crimes","1,676"
+California,La Quinta,Total,"Total, all crimes","1,277"
+California,La Verne,Total,"Total, all crimes",923
+California,Lafayette,Total,"Total, all crimes",172
+California,Laguna Beach,Total,"Total, all crimes","2,111"
+California,Laguna Hills,Total,"Total, all crimes",866
+California,Laguna Niguel,Total,"Total, all crimes",987
+California,Laguna Woods,Total,"Total, all crimes",69
+California,Lake County,Total,"Total, all crimes","2,295"
+California,Lake Elsinore,Total,"Total, all crimes","1,836"
+California,Lake Forest,Total,"Total, all crimes","2,149"
+California,Lake Highway Patrol,Total,"Total, all crimes",415
+California,Lake Shastina,Total,"Total, all crimes",11
+California,Lakeport,Total,"Total, all crimes",482
+California,Lakewood,Total,"Total, all crimes","2,172"
+California,Lancaster,Total,"Total, all crimes","11,355"
+California,Lanterman State Hospital,Total,"Total, all crimes",NA
+California,Lassen County,Total,"Total, all crimes",671
+California,Lassen Highway Patrol,Total,"Total, all crimes",266
+California,Lawndale,Total,"Total, all crimes","1,440"
+California,Lemon Grove,Total,"Total, all crimes","1,450"
+California,Lemoore,Total,"Total, all crimes","1,663"
+California,Lincoln,Total,"Total, all crimes",377
+California,Lindsay,Total,"Total, all crimes","1,103"
+California,Livermore,Total,"Total, all crimes","3,145"
+California,Livingston,Total,"Total, all crimes",317
+California,Lodi,Total,"Total, all crimes","4,597"
+California,Loma Linda,Total,"Total, all crimes","1,475"
+California,Lomita,Total,"Total, all crimes",814
+California,Lompoc,Total,"Total, all crimes","2,449"
+California,Long Beach,Total,"Total, all crimes","25,291"
+California,Long Beach City College,Total,"Total, all crimes",NA
+California,Los Alamitos,Total,"Total, all crimes",447
+California,Los Altos,Total,"Total, all crimes",206
+California,Los Altos Hills,Total,"Total, all crimes",9
+California,Los Angeles,Total,"Total, all crimes","124,590"
+California,Los Angeles City College,Total,"Total, all crimes",NA
+California,Los Angeles County,Total,"Total, all crimes","60,044"
+California,Los Angeles Highway Patr,Total,"Total, all crimes","19,054"
+California,Los Angeles Santa Fe Railway,Total,"Total, all crimes",NA
+California,Los Angeles State Police,Total,"Total, all crimes",NA
+California,Los Banos,Total,"Total, all crimes","1,876"
+California,Los Gatos,Total,"Total, all crimes",658
+California,Lynwood,Total,"Total, all crimes","3,603"
+California,Madera,Total,"Total, all crimes","3,424"
+California,Madera County,Total,"Total, all crimes","1,203"
+California,Madera Highway Patrol,Total,"Total, all crimes","1,046"
+California,Madera Santa Fe Railway,Total,"Total, all crimes",NA
+California,Malibu,Total,"Total, all crimes",747
+California,Mammoth Lakes,Total,"Total, all crimes",264
+California,Manhattan Beach,Total,"Total, all crimes","1,414"
+California,Manteca,Total,"Total, all crimes","2,854"
+California,Maricopa,Total,"Total, all crimes",NA
+California,Marin Co Major Crimes Tf,Total,"Total, all crimes",NA
+California,Marin Community College,Total,"Total, all crimes",11
+California,Marin County,Total,"Total, all crimes","1,724"
+California,Marin Highway Patrol,Total,"Total, all crimes",880
+California,Marina,Total,"Total, all crimes","1,203"
+California,Mariposa County,Total,"Total, all crimes","1,015"
+California,Mariposa Highway Patrol,Total,"Total, all crimes",59
+California,Martinez,Total,"Total, all crimes","1,352"
+California,Marysville,Total,"Total, all crimes","1,636"
+California,Maywood,Total,"Total, all crimes","1,002"
+California,McFarland,Total,"Total, all crimes",345
+California,Mendocino County,Total,"Total, all crimes","2,624"
+California,Mendocino Highway Patrol,Total,"Total, all crimes",966
+California,Mendota,Total,"Total, all crimes",933
+California,Menifee,Total,"Total, all crimes","1,072"
+California,Menlo Park,Total,"Total, all crimes","1,098"
+California,Merced,Total,"Total, all crimes","5,138"
+California,Merced College,Total,"Total, all crimes",NA
+California,Merced County,Total,"Total, all crimes","2,170"
+California,Merced Highway Patrol,Total,"Total, all crimes","1,061"
+California,Merced State Police,Total,"Total, all crimes",NA
+California,Mill Valley,Total,"Total, all crimes",240
+California,Millbrae,Total,"Total, all crimes",NA
+California,Milpitas,Total,"Total, all crimes","2,030"
+California,Mission Viejo,Total,"Total, all crimes","1,786"
+California,Modesto,Total,"Total, all crimes","12,787"
+California,Modesto J C Yosemite Cc,Total,"Total, all crimes",NA
+California,Modoc County,Total,"Total, all crimes",416
+California,Modoc Highway Patrol,Total,"Total, all crimes",82
+California,Mono County,Total,"Total, all crimes",139
+California,Mono Highway Patrol,Total,"Total, all crimes",123
+California,Monrovia,Total,"Total, all crimes","1,273"
+California,Montague,Total,"Total, all crimes",13
+California,Montclair,Total,"Total, all crimes","2,228"
+California,Monte Sereno,Total,"Total, all crimes",33
+California,Montebello,Total,"Total, all crimes","2,099"
+California,Monterey,Total,"Total, all crimes","1,714"
+California,Monterey County,Total,"Total, all crimes","2,853"
+California,Monterey Highway Patrol,Total,"Total, all crimes","1,654"
+California,Monterey Park,Total,"Total, all crimes","1,120"
+California,Monterey Peninsula Airpo,Total,"Total, all crimes",3
+California,Moorpark,Total,"Total, all crimes","1,721"
+California,Moraga,Total,"Total, all crimes",116
+California,Moreno Valley,Total,"Total, all crimes","7,286"
+California,Morgan Hill,Total,"Total, all crimes","1,573"
+California,Morro Bay,Total,"Total, all crimes",628
+California,Mount Shasta,Total,"Total, all crimes",189
+California,Mountain View,Total,"Total, all crimes","3,147"
+California,Murrieta,Total,"Total, all crimes","2,846"
+California,Napa,Total,"Total, all crimes","2,905"
+California,Napa County,Total,"Total, all crimes",854
+California,Napa Highway Patrol,Total,"Total, all crimes",524
+California,Napa State Hosp Napa Co,Total,"Total, all crimes",18
+California,National City,Total,"Total, all crimes","2,882"
+California,Needles,Total,"Total, all crimes",617
+California,Nevada City,Total,"Total, all crimes",356
+California,Nevada County,Total,"Total, all crimes","1,542"
+California,Nevada Highway Patrol,Total,"Total, all crimes",357
+California,Newark,Total,"Total, all crimes","1,737"
+California,Newman,Total,"Total, all crimes",417
+California,Newport Beach,Total,"Total, all crimes","4,331"
+California,Norco,Total,"Total, all crimes",704
+California,Norwalk,Total,"Total, all crimes","3,720"
+California,Novato,Total,"Total, all crimes","1,932"
+California,Oakdale,Total,"Total, all crimes","1,444"
+California,Oakland,Total,"Total, all crimes","10,668"
+California,Oakley,Total,"Total, all crimes",807
+California,Oceanside,Total,"Total, all crimes","6,614"
+California,Ojai,Total,"Total, all crimes",397
+California,Ontario,Total,"Total, all crimes","9,897"
+California,Orange,Total,"Total, all crimes","6,260"
+California,Orange County,Total,"Total, all crimes","4,698"
+California,Orange County Marshal,Total,"Total, all crimes",NA
+California,Orange Cove,Total,"Total, all crimes",NA
+California,Orange Highway Patrol,Total,"Total, all crimes","4,174"
+California,Orange Santa Fe Railway,Total,"Total, all crimes",NA
+California,Orange State Police,Total,"Total, all crimes",NA
+California,Orinda,Total,"Total, all crimes",126
+California,Orland,Total,"Total, all crimes",571
+California,Oroville,Total,"Total, all crimes","2,447"
+California,Oxnard,Total,"Total, all crimes","13,615"
+California,Pacific Grove,Total,"Total, all crimes",290
+California,Pacifica,Total,"Total, all crimes",804
+California,Palm Desert,Total,"Total, all crimes","1,346"
+California,Palm Springs,Total,"Total, all crimes","3,680"
+California,Palmdale,Total,"Total, all crimes","7,743"
+California,Palo Alto,Total,"Total, all crimes","1,625"
+California,Palos Verdes Estates,Total,"Total, all crimes",344
+California,Paradise,Total,"Total, all crimes","1,568"
+California,Paramount,Total,"Total, all crimes","1,896"
+California,Parlier,Total,"Total, all crimes",731
+California,Pasadena,Total,"Total, all crimes","6,767"
+California,Pasadena Community College,Total,"Total, all crimes",38
+California,Paso Robles,Total,"Total, all crimes","1,666"
+California,Patterson,Total,"Total, all crimes",585
+California,Patton State Hospital,Total,"Total, all crimes",5
+California,Perris,Total,"Total, all crimes","1,638"
+California,Petaluma,Total,"Total, all crimes","2,474"
+California,Pico Rivera,Total,"Total, all crimes","4,095"
+California,Piedmont,Total,"Total, all crimes",89
+California,Pinole,Total,"Total, all crimes",943
+California,Pismo Beach,Total,"Total, all crimes",910
+California,Pittsburg,Total,"Total, all crimes","2,671"
+California,Placentia,Total,"Total, all crimes","1,664"
+California,Placer County,Total,"Total, all crimes","3,898"
+California,Placer Highway Patrol,Total,"Total, all crimes",561
+California,Placerville,Total,"Total, all crimes",690
+California,Pleasant Hill,Total,"Total, all crimes",975
+California,Pleasanton,Total,"Total, all crimes","1,838"
+California,Plumas County,Total,"Total, all crimes",974
+California,Plumas Highway Patrol,Total,"Total, all crimes",281
+California,Pomona,Total,"Total, all crimes","5,852"
+California,Pomona Unfd School Dist,Total,"Total, all crimes",NA
+California,Port Hueneme,Total,"Total, all crimes","1,358"
+California,Port of San Diego Harbor,Total,"Total, all crimes","1,692"
+California,Porterville,Total,"Total, all crimes","4,432"
+California,Porterville Develop Center,Total,"Total, all crimes",NA
+California,Poway,Total,"Total, all crimes","1,028"
+California,Rancho Cordova,Total,"Total, all crimes","2,325"
+California,Rancho Cucamonga,Total,"Total, all crimes","6,509"
+California,Rancho Mirage,Total,"Total, all crimes",475
+California,Rancho Palos Verdes,Total,"Total, all crimes",239
+California,Rancho Santa Margarita,Total,"Total, all crimes",792
+California,Red Bluff,Total,"Total, all crimes","1,443"
+California,Redding,Total,"Total, all crimes","8,406"
+California,Redlands,Total,"Total, all crimes","3,060"
+California,Redondo Beach,Total,"Total, all crimes","2,233"
+California,Redwood City,Total,"Total, all crimes","2,296"
+California,Reedley,Total,"Total, all crimes","1,498"
+California,Reedley College,Total,"Total, all crimes",NA
+California,Rialto,Total,"Total, all crimes","2,918"
+California,Richmond,Total,"Total, all crimes","3,224"
+California,Ridgecrest,Total,"Total, all crimes","2,311"
+California,Rio Dell,Total,"Total, all crimes",287
+California,Rio Vista,Total,"Total, all crimes",160
+California,Ripon,Total,"Total, all crimes",654
+California,Riverbank,Total,"Total, all crimes",655
+California,Riverside,Total,"Total, all crimes","11,168"
+California,Riverside Comm College,Total,"Total, all crimes",100
+California,Riverside County,Total,"Total, all crimes","9,090"
+California,Riverside Highway Patrol,Total,"Total, all crimes","5,534"
+California,Riverside Santa Fe Railway,Total,"Total, all crimes",NA
+California,Riverside State Police,Total,"Total, all crimes",NA
+California,Rocklin,Total,"Total, all crimes","1,225"
+California,Rohnert Park,Total,"Total, all crimes","1,669"
+California,Rolling Hills,Total,"Total, all crimes",16
+California,Rolling Hills Estates,Total,"Total, all crimes",92
+California,Rosemead,Total,"Total, all crimes","1,701"
+California,Roseville,Total,"Total, all crimes","5,755"
+California,Ross,Total,"Total, all crimes",29
+California,S Pacific Trans Siskiyou,Total,"Total, all crimes",NA
+California,Sacramento,Total,"Total, all crimes","24,421"
+California,Sacramento County,Total,"Total, all crimes","14,307"
+California,Sacramento Highway Patro,Total,"Total, all crimes","4,152"
+California,Salinas,Total,"Total, all crimes","5,538"
+California,San Anselmo,Total,"Total, all crimes",190
+California,San Benito County,Total,"Total, all crimes",597
+California,San Benito Highway Patro,Total,"Total, all crimes",145
+California,San Bernardino,Total,"Total, all crimes","9,002"
+California,San Bernardino Co Welfar,Total,"Total, all crimes",NA
+California,San Bernardino Comm College,Total,"Total, all crimes",76
+California,San Bernardino County,Total,"Total, all crimes","21,780"
+California,San Bernardino Highway Patrol,Total,"Total, all crimes","6,313"
+California,San Bernardino Santa Fe R.R.,Total,"Total, all crimes",NA
+California,San Bernardino State Police,Total,"Total, all crimes",NA
+California,San Bernardino Usd,Total,"Total, all crimes","3,224"
+California,San Bruno,Total,"Total, all crimes","1,236"
+California,San Carlos,Total,"Total, all crimes",NA
+California,San Clemente,Total,"Total, all crimes","1,691"
+California,San Diego,Total,"Total, all crimes","54,031"
+California,San Diego County,Total,"Total, all crimes","14,116"
+California,San Diego Highway Patrol,Total,"Total, all crimes","6,459"
+California,San Diego Santa Fe Railway,Total,"Total, all crimes",NA
+California,San Diego St University,Total,"Total, all crimes",658
+California,San Diego State Police,Total,"Total, all crimes",NA
+California,San Dimas,Total,"Total, all crimes",956
+California,San Fernando,Total,"Total, all crimes",675
+California,San Francisco,Total,"Total, all crimes","20,482"
+California,San Francisco City and County,Total,"Total, all crimes",NA
+California,San Francisco Highway Pa,Total,"Total, all crimes","1,364"
+California,San Francisco St Univ,Total,"Total, all crimes",194
+California,San Francisco State Police,Total,"Total, all crimes",NA
+California,San Gabriel,Total,"Total, all crimes",737
+California,San Jacinto,Total,"Total, all crimes","1,323"
+California,San Joaquin County,Total,"Total, all crimes","4,287"
+California,San Joaquin Highway Patr,Total,"Total, all crimes","3,356"
+California,San Joaquin Santa Fe Railway,Total,"Total, all crimes",NA
+California,San Joaquin State Police,Total,"Total, all crimes",NA
+California,San Jose,Total,"Total, all crimes","21,293"
+California,San Jose/Evergreen Com C,Total,"Total, all crimes",21
+California,San Juan Bautista,Total,"Total, all crimes",NA
+California,San Juan Capistrano,Total,"Total, all crimes","1,146"
+California,San Leandro,Total,"Total, all crimes","3,843"
+California,San Luis Obispo,Total,"Total, all crimes","3,852"
+California,San Luis Obispo County,Total,"Total, all crimes","2,807"
+California,San Luis Obispo Highway,Total,"Total, all crimes","1,190"
+California,San Marcos,Total,"Total, all crimes","2,101"
+California,San Marino,Total,"Total, all crimes",150
+California,San Mateo,Total,"Total, all crimes","3,946"
+California,San Mateo County,Total,"Total, all crimes","4,031"
+California,San Mateo Highway Patrol,Total,"Total, all crimes","1,457"
+California,San Mateo State Police,Total,"Total, all crimes",NA
+California,San Pablo,Total,"Total, all crimes","1,679"
+California,San Rafael,Total,"Total, all crimes","3,251"
+California,San Ramon,Total,"Total, all crimes",587
+California,Sand City,Total,"Total, all crimes",47
+California,Sanger,Total,"Total, all crimes",914
+California,Santa Ana,Total,"Total, all crimes","14,052"
+California,Santa Barbara,Total,"Total, all crimes","14,796"
+California,Santa Barbara County,Total,"Total, all crimes","4,980"
+California,Santa Barbara Highway Patrol,Total,"Total, all crimes","1,449"
+California,Santa Barbara State Police,Total,"Total, all crimes",NA
+California,Santa Clara,Total,"Total, all crimes","4,335"
+California,Santa Clara County,Total,"Total, all crimes","4,817"
+California,Santa Clara Highway Patrol,Total,"Total, all crimes","2,808"
+California,Santa Clara State Police,Total,"Total, all crimes",NA
+California,Santa Clara Transit Dist,Total,"Total, all crimes",312
+California,Santa Clarita,Total,"Total, all crimes","5,039"
+California,Santa Cruz,Total,"Total, all crimes","6,909"
+California,Santa Cruz County,Total,"Total, all crimes","3,705"
+California,Santa Cruz Highway Patrol,Total,"Total, all crimes","1,468"
+California,Santa Fe Springs,Total,"Total, all crimes",898
+California,Santa Maria,Total,"Total, all crimes","2,791"
+California,Santa Monica,Total,"Total, all crimes","5,764"
+California,Santa Paula,Total,"Total, all crimes","2,096"
+California,Santa Rosa,Total,"Total, all crimes","9,212"
+California,Santa Rosa Jr. College,Total,"Total, all crimes",202
+California,Santee,Total,"Total, all crimes","2,220"
+California,Saratoga,Total,"Total, all crimes",74
+California,Sausalito,Total,"Total, all crimes",312
+California,Scotts Valley,Total,"Total, all crimes",553
+California,Seal Beach,Total,"Total, all crimes",684
+California,Seaside,Total,"Total, all crimes","1,335"
+California,Sebastopol,Total,"Total, all crimes",780
+California,Selma,Total,"Total, all crimes","1,538"
+California,SF Bart: Alameda County,Total,"Total, all crimes",974
+California,SF Bart: Contra Costa County,Total,"Total, all crimes",303
+California,SF Bart: San Francisco Co,Total,"Total, all crimes",386
+California,SF Bart: San Mateo County,Total,"Total, all crimes",59
+California,Shafter,Total,"Total, all crimes","1,180"
+California,Shasta County,Total,"Total, all crimes","1,150"
+California,Shasta County Marshal,Total,"Total, all crimes",98
+California,Shasta Highway Patrol,Total,"Total, all crimes","1,225"
+California,Shasta State Police,Total,"Total, all crimes",NA
+California,Sierra County,Total,"Total, all crimes",174
+California,Sierra Highway Patrol,Total,"Total, all crimes",29
+California,Sierra Madre,Total,"Total, all crimes",163
+California,Signal Hill,Total,"Total, all crimes",982
+California,Simi Valley,Total,"Total, all crimes","5,006"
+California,Siskiyou County,Total,"Total, all crimes",708
+California,Siskiyou Highway Patrol,Total,"Total, all crimes",582
+California,So Pac R.R.: San Luis Obispo,Total,"Total, all crimes",NA
+California,So Pac. R.R. Fresno,Total,"Total, all crimes",NA
+California,So Pac. R.R. Los Angeles,Total,"Total, all crimes",NA
+California,So Pac. R.R. Mendocino,Total,"Total, all crimes",NA
+California,So Pac. R.R. San Bernardino,Total,"Total, all crimes",NA
+California,So Pac. R.R. San Francisco,Total,"Total, all crimes",NA
+California,So Pac. R.R. San Joaquin,Total,"Total, all crimes",NA
+California,So Pac. R.R. Santa Clara,Total,"Total, all crimes",NA
+California,So Pacific R.R. Sacramento,Total,"Total, all crimes",NA
+California,So Pacific Trans Kern,Total,"Total, all crimes",NA
+California,So Pacific Trans Placer,Total,"Total, all crimes",NA
+California,So. Pac. R.R. Contra Costa,Total,"Total, all crimes",NA
+California,So.Pac. R.R. Alameda,Total,"Total, all crimes",NA
+California,Solana Beach,Total,"Total, all crimes",172
+California,Solano Community College,Total,"Total, all crimes",3
+California,Solano County,Total,"Total, all crimes","2,479"
+California,Solano County State Police,Total,"Total, all crimes",NA
+California,Solano Highway Patrol,Total,"Total, all crimes",840
+California,Soledad,Total,"Total, all crimes",541
+California,Solvang,Total,"Total, all crimes",206
+California,Sonoma,Total,"Total, all crimes",582
+California,Sonoma County,Total,"Total, all crimes","6,431"
+California,Sonoma Developmental Ctr,Total,"Total, all crimes",NA
+California,Sonoma Highway Patrol,Total,"Total, all crimes","1,576"
+California,Sonoma State Police,Total,"Total, all crimes",NA
+California,Sonoma State University,Total,"Total, all crimes",34
+California,Sonora,Total,"Total, all crimes",864
+California,South El Monte,Total,"Total, all crimes","1,141"
+California,South Gate,Total,"Total, all crimes","2,759"
+California,South Lake Tahoe,Total,"Total, all crimes","1,382"
+California,South Pasadena,Total,"Total, all crimes",741
+California,South San Francisco,Total,"Total, all crimes","2,349"
+California,St. Helena,Total,"Total, all crimes",130
+California,Stallion Springs,Total,"Total, all crimes",41
+California,Stanislaus County,Total,"Total, all crimes","2,249"
+California,Stanislaus Highway Patrol,Total,"Total, all crimes","2,086"
+California,Stanislaus Santa Fe Railway,Total,"Total, all crimes",NA
+California,Stanislaus State Police,Total,"Total, all crimes",NA
+California,Stanton,Total,"Total, all crimes","1,356"
+California,State Totals,Total,"Total, all crimes","1,655,356"
+California,Stockton,Total,"Total, all crimes","8,913"
+California,Stockton Developmental C,Total,"Total, all crimes",NA
+California,Stockton Unified Sch Dis,Total,"Total, all crimes","2,327"
+California,Suisun City,Total,"Total, all crimes",863
+California,Sunnyvale,Total,"Total, all crimes","3,338"
+California,Susanville,Total,"Total, all crimes",775
+California,Sutter County,Total,"Total, all crimes","1,576"
+California,Sutter Creek,Total,"Total, all crimes",104
+California,Sutter Highway Patrol,Total,"Total, all crimes",191
+California,Taft,Total,"Total, all crimes",827
+California,Tehachapi,Total,"Total, all crimes",697
+California,Tehama County,Total,"Total, all crimes","2,297"
+California,Tehama Highway Patrol,Total,"Total, all crimes",549
+California,Temecula,Total,"Total, all crimes","3,030"
+California,Temple City,Total,"Total, all crimes",820
+California,Thousand Oaks,Total,"Total, all crimes","3,842"
+California,Tiburon,Total,"Total, all crimes",107
+California,Torrance,Total,"Total, all crimes","4,270"
+California,Tracy,Total,"Total, all crimes","2,646"
+California,Trinidad,Total,"Total, all crimes",NA
+California,Trinity County,Total,"Total, all crimes","1,087"
+California,Trinity Highway Patrol,Total,"Total, all crimes",300
+California,Truckee,Total,"Total, all crimes",487
+California,Tulare,Total,"Total, all crimes","4,049"
+California,Tulare County,Total,"Total, all crimes","8,602"
+California,Tulare Highway Patrol,Total,"Total, all crimes","2,644"
+California,Tulare Santa Fe Railway,Total,"Total, all crimes",NA
+California,Tulelake,Total,"Total, all crimes",16
+California,Tuolumne County,Total,"Total, all crimes","2,153"
+California,Tuolumne Highway Patrol,Total,"Total, all crimes",518
+California,Turlock,Total,"Total, all crimes","3,316"
+California,Tustin,Total,"Total, all crimes","2,804"
+California,Twentynine Palms,Total,"Total, all crimes",828
+California,Twin Cities,Total,"Total, all crimes",514
+California,"UC Med Ctr, Sacrament",Total,"Total, all crimes",116
+California,UC: Berkeley,Total,"Total, all crimes",677
+California,UC: Davis,Total,"Total, all crimes",178
+California,UC: Hastings C of L,Total,"Total, all crimes",NA
+California,UC: Irvine,Total,"Total, all crimes",176
+California,UC: Lawrence Berkeley,Total,"Total, all crimes",NA
+California,UC: Lawrence-Livermore La,Total,"Total, all crimes",NA
+California,UC: Los Angeles,Total,"Total, all crimes",345
+California,UC: Merced,Total,"Total, all crimes",19
+California,UC: Riverside,Total,"Total, all crimes",211
+California,UC: San Diego,Total,"Total, all crimes",173
+California,UC: San Francisco,Total,"Total, all crimes",246
+California,UC: Santa Barbara,Total,"Total, all crimes",404
+California,UC: Santa Cruz,Total,"Total, all crimes",115
+California,Ukiah,Total,"Total, all crimes","2,248"
+California,Union City,Total,"Total, all crimes","1,894"
+California,Union Pacific R.R. Alameda County,Total,"Total, all crimes",NA
+California,Union Pacific R.R. Butte County,Total,"Total, all crimes",NA
+California,Union Pacific R.R. San Joaquin County,Total,"Total, all crimes",NA
+California,Union Pacific R.R. Sec Co Dept,Total,"Total, all crimes",NA
+California,Union Pacific R.R. Sec Dept Stainlaus Co,Total,"Total, all crimes",NA
+California,Union Pacific R.R. Sec Dp Sacramento Co,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Alameda County,Total,"Total, all crimes",74
+California,Union Pacific R.R.: Amador County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Butte County,Total,"Total, all crimes",5
+California,Union Pacific R.R.: Colusa County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Contra Costa County,Total,"Total, all crimes",10
+California,Union Pacific R.R.: El Dorado County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Fresno County,Total,"Total, all crimes",93
+California,Union Pacific R.R.: Glenn County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Humboldt County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Imperial County,Total,"Total, all crimes",39
+California,Union Pacific R.R.: Kern County,Total,"Total, all crimes",57
+California,Union Pacific R.R.: Lassen County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Los Angeles County,Total,"Total, all crimes",356
+California,Union Pacific R.R.: Madera County,Total,"Total, all crimes",17
+California,Union Pacific R.R.: Marin County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Merced County,Total,"Total, all crimes",14
+California,Union Pacific R.R.: Monterey County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Napa County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Nevada County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Orange County,Total,"Total, all crimes",3
+California,Union Pacific R.R.: Placer County,Total,"Total, all crimes",94
+California,Union Pacific R.R.: Plumas County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Riverside County,Total,"Total, all crimes",107
+California,Union Pacific R.R.: Sacramento County,Total,"Total, all crimes",157
+California,Union Pacific R.R.: San Benito County,Total,"Total, all crimes",6
+California,Union Pacific R.R.: San Bernardino Cty,Total,"Total, all crimes",206
+California,Union Pacific R.R.: San Francisco Cty,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: San Joaquin County,Total,"Total, all crimes",60
+California,Union Pacific R.R.: San Luis Obispo Cty,Total,"Total, all crimes",19
+California,Union Pacific R.R.: San Mateo County,Total,"Total, all crimes",2
+California,Union Pacific R.R.: Santa Barbara Coun,Total,"Total, all crimes",1
+California,Union Pacific R.R.: Santa Clara Co.,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Santa Clara County,Total,"Total, all crimes",60
+California,Union Pacific R.R.: Santa Cruz County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Shasta County,Total,"Total, all crimes",4
+California,Union Pacific R.R.: Siskiyou County,Total,"Total, all crimes",3
+California,Union Pacific R.R.: Solano County,Total,"Total, all crimes",33
+California,Union Pacific R.R.: Sonoma County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Stanislaus County,Total,"Total, all crimes",56
+California,Union Pacific R.R.: Sutter County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Tehama County,Total,"Total, all crimes",NA
+California,Union Pacific R.R.: Tulare County,Total,"Total, all crimes",7
+California,Union Pacific R.R.: Ventura County,Total,"Total, all crimes",15
+California,Union Pacific R.R.: Yolo County,Total,"Total, all crimes",19
+California,Union Pacific R.R.: Yuba County,Total,"Total, all crimes",5
+California,Union Pacific Rr-Los Ang,Total,"Total, all crimes",NA
+California,Union Pacific Rr-Riversi,Total,"Total, all crimes",NA
+California,Upland,Total,"Total, all crimes","2,570"
+California,Vacaville,Total,"Total, all crimes","3,256"
+California,Vallejo,Total,"Total, all crimes","3,941"
+California,Ventura,Total,"Total, all crimes","6,462"
+California,Ventura Cnty Com Col Dst,Total,"Total, all crimes",33
+California,Ventura County,Total,"Total, all crimes","7,434"
+California,Ventura Highway Patrol,Total,"Total, all crimes","2,307"
+California,Vernon,Total,"Total, all crimes",306
+California,Victorville,Total,"Total, all crimes","4,598"
+California,Villa Park,Total,"Total, all crimes",125
+California,Visalia,Total,"Total, all crimes","7,741"
+California,Vista,Total,"Total, all crimes","5,744"
+California,Walnut,Total,"Total, all crimes",368
+California,Walnut Creek,Total,"Total, all crimes","1,876"
+California,Waterford,Total,"Total, all crimes",246
+California,Watsonville,Total,"Total, all crimes","3,230"
+California,Weed,Total,"Total, all crimes",395
+California,West Covina,Total,"Total, all crimes","3,041"
+California,West Hollywood,Total,"Total, all crimes","3,631"
+California,West Sacramento,Total,"Total, all crimes","1,925"
+California,West Valley-Mission College,Total,"Total, all crimes",7
+California,Westlake Village,Total,"Total, all crimes",124
+California,Westminster,Total,"Total, all crimes","3,446"
+California,Westmorland,Total,"Total, all crimes",104
+California,Wheatland,Total,"Total, all crimes",240
+California,Whittier,Total,"Total, all crimes","2,522"
+California,Wildomar,Total,"Total, all crimes",729
+California,Williams,Total,"Total, all crimes",187
+California,Willits,Total,"Total, all crimes",650
+California,Willows,Total,"Total, all crimes",372
+California,Windsor,Total,"Total, all crimes",974
+California,Winters,Total,"Total, all crimes",242
+California,Woodlake,Total,"Total, all crimes",638
+California,Woodland,Total,"Total, all crimes","2,731"
+California,Yolo County,Total,"Total, all crimes","2,106"
+California,Yolo Highway Patrol,Total,"Total, all crimes",350
+California,Yolo State Police,Total,"Total, all crimes",NA
+California,Yorba Linda,Total,"Total, all crimes",844
+California,Yountville,Total,"Total, all crimes",39
+California,Yreka,Total,"Total, all crimes",588
+California,Yuba City,Total,"Total, all crimes","3,434"
+California,Yuba County,Total,"Total, all crimes","3,134"
+California,Yuba Highway Patrol,Total,"Total, all crimes",235
+California,Yucaipa,Total,"Total, all crimes","2,284"
+California,Yucca Valley,Total,"Total, all crimes","1,163"
